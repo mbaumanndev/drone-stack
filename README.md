@@ -10,7 +10,7 @@ DRONE_VERSION=0.8
 DRONE_HOST=https://your-host.com
 DRONE_GITHUB_CLIENT=<your gh oauth client>
 DRONE_GITHUB_SECRET=<your gh oauth secret>
-DRONE_SECRET=<your drone secret, a randon string>
+DRONE_SECRET=<your drone secret, a random string>
 AUTHORIZED_USERS=<your authorized users, comma separated>
 ```
 
