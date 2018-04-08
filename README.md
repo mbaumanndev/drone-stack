@@ -1,9 +1,9 @@
-Done Stack
+Drone Stack
 ==========
 
 This is my sample Drone Stack, I will improve it with my needs.
 
-Here is a sample `.env`file :
+Here is a sample `.env` file :
 
 ```
 DRONE_VERSION=0.8
